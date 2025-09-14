@@ -1,9 +1,9 @@
-**Titanic Dataset Classification & Visualization**
+# **Titanic Dataset Classification & Visualization**
 
 This project analyzes the Titanic dataset to understand passenger demographics and survival patterns.  
 It was created in Google Colab and uploaded to GitHub for sharing and review.
 
- **📊 Visualizations**
+## **📊 Visualizations**
 The following plots were created:
 
 - **Age Distribution (Histogram)** – shows how passengers’ ages are distributed.
@@ -12,7 +12,7 @@ The following plots were created:
 - **Fare Distribution (Histogram)** – shows the fare amounts paid by passengers.
 - **Top Ticket Numbers (Barplot)** – displays the most frequent ticket numbers.
   
-** 📈 Survival Summary by Sex**
+## ** 📈 Survival Summary by Sex**
 The dataset shows a clear difference between male and female passengers:
 
 - **Total Male Passengers:** 577 – fewer survived.  
@@ -20,7 +20,7 @@ The dataset shows a clear difference between male and female passengers:
 
 ✅ This shows that females had a much higher chance of survival compared to males.
 
- **⚙️ Machine Learning Model**
+ ## **⚙️ Machine Learning Model**
 A Logistic Regression model is trained on the cleaned dataset to predict passenger survival.
 
 **Steps included:**
@@ -28,10 +28,9 @@ A Logistic Regression model is trained on the cleaned dataset to predict passeng
 - Handling missing values
 - Training and evaluating the model
 
-   **📝 Note**
+  ## **📝 Note**
 This project was created as part of an assignment to classify and visualize the Titanic dataset.This analysis shows the demographic patterns and survival trends of the Titanic passengers.
 
 
 
-## 📝 Note
-This repository was created for an assignment to classify and visualize the Titanic dataset.
+

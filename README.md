@@ -1,3 +1,7 @@
+#Titanic Project
+This folder contains my Titanic dataset project.
+It includes data preprocessing, model building, and evaluation steps.
+
 # **Titanic Dataset Classification & Visualization**
 
 This project analyzes the Titanic dataset to understand passenger demographics and survival patterns.  

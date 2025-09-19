@@ -28,6 +28,17 @@ The dataset shows a clear difference between male and female passengers:
  ## **⚙️ Machine Learning Model**
 A Logistic Regression model is trained on the cleaned dataset to predict passenger survival.
 
+**Training Data**  
+  - Rows: 891  
+  - Columns: 12  
+  - Columns list: PassengerId, Survived, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked  
+
+- **Test Data**  
+  - Rows: 418  
+  - Columns: 11  
+  - Columns list: PassengerId, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked  
+
+
 **Steps included:**
 - Encoding categorical features (like `Sex`)
 - Handling missing values

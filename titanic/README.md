@@ -17,7 +17,7 @@ The following plots were created:
 - **Fare Distribution (Histogram)** – shows the fare amounts paid by passengers.
 - **Top Ticket Numbers (Barplot)** – displays the most frequent ticket numbers.
   
-## ** 📈 Survival Summary by Sex**
+## **📈 Survival Summary by Sex**
 The dataset shows a clear difference between male and female passengers:
 
 - **Total Male Passengers:** 577 – fewer survived.  

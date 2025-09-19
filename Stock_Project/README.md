@@ -43,6 +43,3 @@ This project predicts **future stock closing prices** using historical stock dat
 - The future prediction plot shows the **next 30 days** based on the latest available data row.  
 - This project is for **educational purposes** and should not be used for actual trading decisions.
 
-
-## Author
-Khadija Kashif

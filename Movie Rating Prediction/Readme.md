@@ -17,10 +17,14 @@ The main objective of this project was to develop a machine learning model that 
 ###  **Data Preprocessing Steps**
 To prepare the dataset for model training, the following preprocessing steps were applied:
 
-Handling missing or null values  
-Encoding categorical data (like genre, director)  
-Removing duplicate and irrelevant columns    
-Splitting dataset into **80% training** and **20% testing**
+
+-  Handling missing or null values  
+-  Encoding categorical variables (e.g., Genre, Director)  
+-  Removing duplicate or irrelevant columns  
+-  Detecting and treating outliers (if necessary)  
+-  Feature transformation and scaling  
+-  Splitting dataset into **Training Set (80%)** and **Testing Set (20%)**
+
 
 ---
 
